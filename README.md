@@ -7,7 +7,7 @@ A **_Profile_** web application with a modern feel and look, structured with **_
 ![screenshot1 of the app](Screenshot.png)
 
 Check it _**LIVE**_ 👉
-**<https://deebest.github.io/age-calculator/>**
+**<https://deebest.github.io/profile-statistics/>**
 
 ## Uses
 
